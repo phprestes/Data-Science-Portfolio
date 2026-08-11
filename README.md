@@ -108,7 +108,7 @@ The portfolio is organized by area rather than by date. Each project includes a 
     <img src="https://gh-card.dev/repos/phprestes/Wikipedia-Graph.svg" alt="Repo Card" />
   </a>
 
-##
+## 💡 Personal Project
 
 * **Project Name:** ICMC Grad Maker — Course Schedule Data Pipeline
 * **Description:** A platform that helps ICMC-USP students assemble their semester timetable without schedule conflicts. The data side is a two-source extraction pipeline with intelligent orchestration: a Selenium scraper reads the official JúpiterWeb portal when the semester's class offerings are published, and an LLM-based parser falls back to the preliminary PDFs when they are not, with a merge step consolidating either path into a single clean `courses.json` consumed by a React SPA.
