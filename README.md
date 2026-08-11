@@ -135,6 +135,17 @@ The portfolio is organized by area rather than by date. Each project includes a 
     <img src="https://gh-card.dev/repos/phprestes/Hackaton-Manutec.svg" alt="Repo Card" />
   </a>
 
+## 🏆 Hackathon — BTG @ SEMCOMP
+* **Project Name:** FinSense — WhatsApp Finance Agent (BTG Hackathon)
+* **Description:** A LangChain-based financial agent that simulates and extends BTG Pactual's WhatsApp assistant (Finanças+), adding card management, savings goals ("caixinhas"), category budgets, spend alerts and expense charts, delivered over WhatsApp via the Twilio API. Built as a collaborator for the BTG hackathon at SEMCOMP.
+* **Techniques:** LangChain Agent / Tool-Calling, WhatsApp Integration (Twilio API), Webhook Tunneling (Ngrok), Structured Output Validation (Pydantic), Budget & Spend Alerting, Data Visualization (Matplotlib).
+* **Stack:** `Python`, `LangChain`, `Twilio API`, `Pydantic`, `Matplotlib`, `Ngrok`
+* **Repository:**
+
+  <a href="https://github.com/bielpieroli/HACKATHON_BTG_SEMCOMP">
+    <img src="https://gh-card.dev/repos/bielpieroli/HACKATHON_BTG_SEMCOMP.svg" alt="Repo Card" />
+  </a>
+
 ---
 
 ## 🔹 Numerical & Mathematical Foundations
