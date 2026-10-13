@@ -119,6 +119,28 @@ The portfolio is organized by area rather than by date. Each project includes a 
     <img src="https://gh-card.dev/repos/phprestes/ICMC-Grad-Maker.svg" alt="Repo Card" />
   </a>
 
+## 📚 Docker Course (Asimov Academy)
+* **Project Name:** Docker Datalake Extractor
+* **Description:** A Docker study project that simulates data extraction for a datalake: a Python application queries the public DummyJSON API on a schedule and saves products and carts as timestamped JSON files, with cron running inside the container.
+* **Techniques:** Containerization (Multi-Stage Dockerfile), Docker Volumes, Scheduled Execution (cron), Rotating Logs, HTTP API Consumption, Command-Line Argument Parsing.
+* **Stack:** `Python`, `Docker`, `Cron`, `Requests`, `Shell/Bash Script`
+* **Repository:**
+
+  <a href="https://github.com/phprestes/Docker-Datalake-Extractor">
+    <img src="https://gh-card.dev/repos/phprestes/Docker-Datalake-Extractor.svg" alt="Repo Card" />
+  </a>
+
+## 📚 SAMPA Course — MLOps Foundations
+* **Project Name:** SAMPA — ML Systems Engineering Exercises
+* **Description:** The theoretical foundation for MLOps systems: ten exercises from the SAMPA course on engineering Machine Learning systems (based on *Machine Learning in Production: From Models to Products* and the Carnegie Mellon course of the same name), evolving a single case-study system from objectives to performance modeling.
+* **Techniques:** Objectives & Requirements Specification, Failure Modes, Fault Tree Analysis (FTA), Measurement & Model Quality, Validation Automation, System Architecture (Edge Computing / TinyML), C4 Diagrams, ML Pipelines (Training, Deployment, Data Ingestion), Monitoring, Performance Modeling.
+* **Stack:** `Markdown`, `C4 Model`
+* **Repository:**
+
+  <a href="https://github.com/phprestes/Curso-SAMPA">
+    <img src="https://gh-card.dev/repos/phprestes/Curso-SAMPA.svg" alt="Repo Card" />
+  </a>
+
 ---
 
 ## 🔹 LLM & AI Applications
