@@ -167,6 +167,17 @@ The portfolio is organized by area rather than by date. Each project includes a 
     <img src="https://gh-card.dev/repos/bielpieroli/HACKATHON_BTG_SEMCOMP.svg" alt="Repo Card" />
   </a>
 
+## 🏆 Hackathon — Raia
+* **Project Name:** Raia — Fake News Moderation Tool for Social Networks
+* **Description:** A fake news moderation tool for social networks built in a hackathon. It collects real Bluesky posts together with account metadata (account age, follower/following ratio, and posts repeated across users as a coordination signal), classifies text with a model trained on the fake-br-corpus, adds an LLM-based automatic fact-checking step, and shows each post's veracity assessment and reasoning in a dashboard served by an API.
+* **Techniques:** Fake News Detection, Text Classification (TF-IDF, Cross-Validation), Account Behavior & Coordination Signals, LLM-Based Fact-Checking, Social Media Data Collection (AT Protocol), Portuguese NLP, Dashboard Visualization.
+* **Stack:** `Python`, `FastAPI`, `scikit-learn`, `TensorFlow/Keras`, `NLTK`, `spaCy`, `Bluesky (AT Protocol)`, `JavaScript`, `React`, `Vite`, `Axios`
+* **Repository:**
+
+  <a href="https://github.com/JustTheHero/hackathon_Raia">
+    <img src="https://gh-card.dev/repos/JustTheHero/hackathon_Raia.svg" alt="Repo Card" />
+  </a>
+
 ---
 
 ## 🔹 Numerical & Mathematical Foundations
